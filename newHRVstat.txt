@@ -1,0 +1,245 @@
+Index: tRSE
+    During: bsl
+	BVV animal #: 11  13  14  24  26  27  29
+	CMV animal #: 1   2   3  16  20  21  23  25
+	63 BVV,72 CMV, (9 each)
+	BVV stat: 25,50,75 percentiles: 0.087583     0.11899     0.16864
+	CMV stat: 25,50,75 percentiles: 0.10192     0.17174     0.31872
+	p-value: 0.06359
+
+    During: v1-3
+	BVV animal #: 11  13  14  24  26  27  29
+	CMV animal #: 1   2   3  16  20  21  23  25
+	119 BVV,136 CMV, (17 each)
+	BVV stat: 25,50,75 percentiles: 0.063811    0.087768      0.1305
+	CMV stat: 25,50,75 percentiles: 0.059929     0.14418     0.31076
+	p-value: 0.1036
+
+    During: v4-5
+	BVV animal #: 11  13  14  24  26  27  29
+	CMV animal #: 1   2   3  16  20  21  23
+	112 BVV,112 CMV, (16 each)
+	BVV stat: 25,50,75 percentiles: 0.07431     0.12662     0.16813
+	CMV stat: 25,50,75 percentiles: 0.15718     0.26241     0.36715
+	p-value: 0.045618
+
+    During: v6-7
+	BVV animal #: 11  13  14  24  26  27  29
+	CMV animal #: 1   2   3  16  20  21  23  25
+	119 BVV,136 CMV, (17 each)
+	BVV stat: 25,50,75 percentiles: 0.065409    0.090094     0.14707
+	CMV stat: 25,50,75 percentiles: 0.19068     0.29658     0.36392
+	p-value: 0.0026015
+
+    During: v8-9
+	BVV animal #: 11  13  14  24  26  27  29
+	CMV animal #: 1   2   3  16  20  21  23  25
+	70 BVV,80 CMV, (10 each)
+	BVV stat: 25,50,75 percentiles: 0.071447     0.11217     0.14387
+	CMV stat: 25,50,75 percentiles: 0.16655     0.26734     0.32614
+	p-value: 0.0045663
+
+    During: rec
+	BVV animal #: 11  13  14  24  26  27
+	CMV animal #: 1   2   3  16  20  21  23  25
+	66 BVV,88 CMV, (11 each)
+	BVV stat: 25,50,75 percentiles: 0.084159     0.12068     0.23152
+	CMV stat: 25,50,75 percentiles: 0.10034     0.14785     0.22644
+	p-value: 0.77256
+
+Index: maxPER
+    During: bsl
+	BVV animal #: 11  13  14  24  26  27  29
+	CMV animal #: 1   2   3  16  20  21  23  25
+	63 BVV,72 CMV, (9 each)
+	BVV stat: 25,50,75 percentiles: 0.027826    0.038907     0.06221
+	CMV stat: 25,50,75 percentiles: 0.035879    0.051479    0.097981
+	p-value: 0.035381
+
+    During: v1-3
+	BVV animal #: 11  13  14  24  26  27  29
+	CMV animal #: 1   2   3  16  20  21  23  25
+	119 BVV,136 CMV, (17 each)
+	BVV stat: 25,50,75 percentiles: 0.0167    0.021929    0.034969
+	CMV stat: 25,50,75 percentiles: 0.034622    0.093971     0.21808
+	p-value: 0.016484
+
+    During: v4-5
+	BVV animal #: 11  13  14  24  26  27  29
+	CMV animal #: 1   2   3  16  20  21  23
+	112 BVV,112 CMV, (16 each)
+	BVV stat: 25,50,75 percentiles: 0.02209    0.029887    0.044341
+	CMV stat: 25,50,75 percentiles: 0.11319     0.19778     0.26645
+	p-value: 0.0015452
+
+    During: v6-7
+	BVV animal #: 11  13  14  24  26  27  29
+	CMV animal #: 1   2   3  16  20  21  23  25
+	119 BVV,136 CMV, (17 each)
+	BVV stat: 25,50,75 percentiles: 0.018667    0.024314    0.033055
+	CMV stat: 25,50,75 percentiles: 0.14037     0.22278     0.28151
+	p-value: 4.0987e-05
+
+    During: v8-9
+	BVV animal #: 11  13  14  24  26  27  29
+	CMV animal #: 1   2   3  16  20  21  23  25
+	70 BVV,80 CMV, (10 each)
+	BVV stat: 25,50,75 percentiles: 0.02019    0.028921    0.047381
+	CMV stat: 25,50,75 percentiles: 0.10229     0.18674      0.2634
+	p-value: 0.00095084
+
+    During: rec
+	BVV animal #: 11  13  14  24  26  27
+	CMV animal #: 1   2   3  16  20  21  23  25
+	66 BVV,88 CMV, (11 each)
+	BVV stat: 25,50,75 percentiles: 0.023882    0.044222    0.068345
+	CMV stat: 25,50,75 percentiles: 0.035591    0.063808     0.14492
+	p-value: 0.16614
+
+Index: maxACF
+    During: bsl
+	BVV animal #: 11  13  14  24  26  27  29
+	CMV animal #: 1   2   3  16  20  21  23  25
+	63 BVV,72 CMV, (9 each)
+	BVV stat: 25,50,75 percentiles: 0.15368      0.2024     0.29014
+	CMV stat: 25,50,75 percentiles: 0.17142     0.28893     0.44395
+	p-value: 0.11074
+
+    During: v1-3
+	BVV animal #: 11  13  14  24  26  27  29
+	CMV animal #: 1   2   3  16  20  21  23  25
+	119 BVV,136 CMV, (17 each)
+	BVV stat: 25,50,75 percentiles: 0.10969     0.13619     0.17297
+	CMV stat: 25,50,75 percentiles: 0.15668     0.23219     0.51973
+	p-value: 0.023243
+
+    During: v4-5
+	BVV animal #: 11  13  14  24  26  27  29
+	CMV animal #: 1   2   3  16  20  21  23
+	112 BVV,112 CMV, (16 each)
+	BVV stat: 25,50,75 percentiles: 0.11531     0.14401     0.19927
+	CMV stat: 25,50,75 percentiles: 0.34315     0.47145     0.58189
+	p-value: 0.00051737
+
+    During: v6-7
+	BVV animal #: 11  13  14  24  26  27  29
+	CMV animal #: 1   2   3  16  20  21  23  25
+	119 BVV,136 CMV, (17 each)
+	BVV stat: 25,50,75 percentiles: 0.10266     0.12999     0.16737
+	CMV stat: 25,50,75 percentiles: 0.41923     0.51397     0.59473
+	p-value: 2.121e-05
+
+    During: v8-9
+	BVV animal #: 11  13  14  24  26  27  29
+	CMV animal #: 1   2   3  16  20  21  23  25
+	70 BVV,80 CMV, (10 each)
+	BVV stat: 25,50,75 percentiles: 0.11723     0.14193     0.18174
+	CMV stat: 25,50,75 percentiles: 0.40543      0.5541     0.61711
+	p-value: 0.00012385
+
+    During: rec
+	BVV animal #: 11  13  14  24  26  27
+	CMV animal #: 1   2   3  16  20  21  23  25
+	66 BVV,88 CMV, (11 each)
+	BVV stat: 25,50,75 percentiles: 0.16061     0.24398     0.35549
+	CMV stat: 25,50,75 percentiles: 0.15434     0.26879     0.45109
+	p-value: 0.56409
+
+Index: meanACF
+    During: bsl
+	BVV animal #: 1100  1300  1400  2400  2600  2700  2900
+	CMV animal #: 100   200   300  1600  2000  2100  2300  2500
+	63 BVV,72 CMV, (9 each)
+	BVV stat: 25,50,75 percentiles: 5.40726      8.47113       11.738
+	CMV stat: 25,50,75 percentiles: 5.91764      11.0246      15.8675
+	p-value: 0.1547
+
+    During: v1-3
+	BVV animal #: 1100  1300  1400  2400  2600  2700  2900
+	CMV animal #: 100   200   300  1600  2000  2100  2300  2500
+	119 BVV,136 CMV, (17 each)
+	BVV stat: 25,50,75 percentiles: 3.8782      4.9031      6.7439
+	CMV stat: 25,50,75 percentiles: 5.54086      11.0388       23.687
+	p-value: 0.025377
+
+    During: v4-5
+	BVV animal #: 1100  1300  1400  2400  2600  2700  2900
+	CMV animal #: 100   200   300  1600  2000  2100  2300
+	112 BVV,112 CMV, (16 each)
+	BVV stat: 25,50,75 percentiles: 4.2678      5.5236      7.8873
+	CMV stat: 25,50,75 percentiles: 13.9617      26.0421      33.6725
+	p-value: 0.0027405
+
+    During: v6-7
+	BVV animal #: 1100  1300  1400  2400  2600  2700  2900
+	CMV animal #: 100   200   300  1600  2000  2100  2300  2500
+	119 BVV,136 CMV, (17 each)
+	BVV stat: 25,50,75 percentiles: 3.8334      4.8042      6.5061
+	CMV stat: 25,50,75 percentiles: 18.853      27.2942      33.6147
+	p-value: 9.1016e-05
+
+    During: v8-9
+	BVV animal #: 1100  1300  1400  2400  2600  2700  2900
+	CMV animal #: 100   200   300  1600  2000  2100  2300  2500
+	70 BVV,80 CMV, (10 each)
+	BVV stat: 25,50,75 percentiles: 3.9123      4.9628       6.675
+	CMV stat: 25,50,75 percentiles: 15.9136      26.2982       33.391
+	p-value: 0.00062244
+
+    During: rec
+	BVV animal #: 1100  1300  1400  2400  2600  2700
+	CMV animal #: 100   200   300  1600  2000  2100  2300  2500
+	66 BVV,88 CMV, (11 each)
+	BVV stat: 25,50,75 percentiles: 5.67546      9.79455      15.1176
+	CMV stat: 25,50,75 percentiles: 6.43765       12.141      22.4814
+	p-value: 0.25237
+
+Index: SampEn
+    During: bsl
+	BVV animal #: 1100  1300  1400  2400  2600  2700  2900
+	CMV animal #: 100   200   300  1600  2000  2100  2300  2500
+	63 BVV,72 CMV, (9 each)
+	BVV stat: 25,50,75 percentiles: 46.40746      64.35502      108.7972
+	CMV stat: 25,50,75 percentiles: 27.9279      53.2545       74.424
+	p-value: 0.10568
+
+    During: v1-3
+	BVV animal #: 1100  1300  1400  2400  2600  2700  2900
+	CMV animal #: 100   200   300  1600  2000  2100  2300  2500
+	112 BVV,128 CMV, (16 each)
+	BVV stat: 25,50,75 percentiles: 53.14212      83.12523      112.4971
+	CMV stat: 25,50,75 percentiles: 20.5444       53.166      98.0829
+	p-value: 0.20189
+
+    During: v4-5
+	BVV animal #: 1100  1300  1400  2400  2600  2700  2900
+	CMV animal #: 100   200   300  1600  2000  2100  2300
+	98 BVV,98 CMV, (14 each)
+	BVV stat: 25,50,75 percentiles: 51.08256      74.88024      104.5969
+	CMV stat: 25,50,75 percentiles: 8.66969      20.9918       51.531
+	p-value: 0.012647
+
+    During: v6-7
+	BVV animal #: 1100  1300  1400  2400  2600  2700  2900
+	CMV animal #: 100   200   300  1600  2000  2100  2300  2500
+	119 BVV,136 CMV, (17 each)
+	BVV stat: 25,50,75 percentiles: 69.31472      100.5522      125.2763
+	CMV stat: 25,50,75 percentiles: 12.56      18.9166      34.8586
+	p-value: 0.00047559
+
+    During: v8-9
+	BVV animal #: 1100  1300  1400  2400  2600  2700  2900
+	CMV animal #: 100   200   300  1600  2000  2100  2300  2500
+	63 BVV,72 CMV, (9 each)
+	BVV stat: 25,50,75 percentiles: 62.3509      90.82586      114.6012
+	CMV stat: 25,50,75 percentiles: 10.7281      16.8603        38.31
+	p-value: 0.00095495
+
+    During: rec
+	BVV animal #: 1100  1300  1400  2400  2600  2700
+	CMV animal #: 100   200   300  1600  2000  2100  2300  2500
+	66 BVV,88 CMV, (11 each)
+	BVV stat: 25,50,75 percentiles: 38.3959      66.6114       97.405
+	CMV stat: 25,50,75 percentiles: 21.5947      51.8465      88.5753
+	p-value: 0.48047
+
